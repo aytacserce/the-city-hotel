@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+The-City-Hotel
+16.12.2025
 
-## Getting Started
+This is a full-stack hotel booking application built with Next.js and Firebase with following functionality and key concepts:
 
-First, run the development server:
+We can;
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Browse available hotel rooms and view detailed specifications and pricing,
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Login securely using a Google Account (via NextAuth.js) to access booking features,
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Create real-time reservations that are instantly saved to the Firestore database,
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Manage bookings by viewing or deleting existing reservations from a personalized dashboard,
 
-## Learn More
+Experience a fully responsive UI that adapts to mobile, tablet, and desktop screens.
 
-To learn more about Next.js, take a look at the following resources:
+In this project; Next.js architecture, Firebase Firestore (NoSQL), Complex Security Rules, NextAuth.js authentication flow, Tailwind CSS styling, and Vercel deployment were practiced.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Bonus: I recorded the entire development process as a speedcoding timelapse Watch on YouTube.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<img width="600px" src="https://github.com/aytacserce/the-city-hotel/blob/main/City-Hotel-screenshot-1.png?raw=true" alt="The City Hotel Project Screenshot" />
 
-## Deploy on Vercel
+:hammer_and_wrench: Languages and Tools Used:
+HTML
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+CSS (Tailwind)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+JavaScript
+
+React
+
+Next.js
+
+Firebase (Firestore & Auth)
+
+Vercel
