@@ -20,6 +20,8 @@ In this project; Next.js architecture, Firebase Firestore (NoSQL), Complex Secur
 
 Bonus: I recorded the entire development process as a speedcoding timelapse Watch on YouTube.
 
+Live Website: [The City Hotel](https://the-city-hotel.vercel.app/)
+
 ---
 
 <img width="600px" src="https://github.com/aytacserce/the-city-hotel/blob/main/City-Hotel-screenshot-1.png?raw=true" alt="The City Hotel Project Screenshot" />
