@@ -16,7 +16,7 @@ export default function Page() {
 
       <div className="relative z-10 text-center">
         <h1 className="text-8xl text-primary-50 mb-10 tracking-tight font-normal">
-          Welcome to "The City"
+          Welcome to &quot;The City&quot;
         </h1>
         <a
           href="/rooms"
