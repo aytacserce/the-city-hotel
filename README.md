@@ -8,15 +8,13 @@ This is a full-stack hotel booking application built with Next.js and Firebase w
 
 We can;
 
-Browse available hotel rooms and view detailed specifications and pricing,
+- Browse available hotel rooms and view detailed specifications and pricing,
 
-Login securely using a Google Account (via NextAuth.js) to access booking features,
+- Login securely using a Google Account (via NextAuth.js) to access booking features,
 
-Create real-time reservations that are instantly saved to the Firestore database,
+- Create real-time reservations that are instantly saved to the Firestore database,
 
-Manage bookings by viewing or deleting existing reservations from a personalized dashboard,
-
-Experience a fully responsive UI that adapts to mobile, tablet, and desktop screens.
+- Manage bookings by viewing or deleting existing reservations from a personalized dashboard,
 
 In this project; Next.js architecture, Firebase Firestore (NoSQL), Complex Security Rules, NextAuth.js authentication flow, Tailwind CSS styling, and Vercel deployment were practiced.
 
@@ -26,19 +24,25 @@ Bonus: I recorded the entire development process as a speedcoding timelapse Watc
 
 <img width="600px" src="https://github.com/aytacserce/the-city-hotel/blob/main/City-Hotel-screenshot-1.png?raw=true" alt="The City Hotel Project Screenshot" />
 
+<img width="600px" src="https://github.com/aytacserce/the-city-hotel/blob/main/City-Hotel-screenshot-2.png?raw=true" alt="The City Hotel Project Screenshot" />
+
+<img width="600px" src="https://github.com/aytacserce/the-city-hotel/blob/main/City-Hotel-screenshot-3.png?raw=true" alt="The City Hotel Project Screenshot" />
+
+<img width="600px" src="https://github.com/aytacserce/the-city-hotel/blob/main/City-Hotel-screenshot-4.png?raw=true" alt="The City Hotel Project Screenshot" />
+
 ---
 
 :hammer_and_wrench: Languages and Tools Used:
-HTML
+- HTML
 
-CSS (Tailwind)
+- CSS (Tailwind)
 
-JavaScript
+- JavaScript
 
-React
+- React
 
-Next.js
+- Next.js
 
-Firebase (Firestore & Auth)
+- Firebase (Firestore & Auth)
 
-Vercel
+- Vercel
