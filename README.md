@@ -18,7 +18,7 @@ We can;
 
 In this project; Next.js architecture, Firebase Firestore (NoSQL), Complex Security Rules, NextAuth.js authentication flow, Tailwind CSS styling, and Vercel deployment were practiced.
 
-Bonus: I recorded the entire development process as a speedcoding timelapse Watch on YouTube.
+Bonus: I recorded the entire development process as a speedcoding timelapse: [Watch on YouTube](https://youtu.be/q9SELEQRu90)
 
 Live Website: [The City Hotel](https://the-city-hotel.vercel.app/)
 
