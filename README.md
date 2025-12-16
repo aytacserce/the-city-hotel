@@ -1,5 +1,8 @@
 The-City-Hotel
+
 16.12.2025
+
+---
 
 This is a full-stack hotel booking application built with Next.js and Firebase with following functionality and key concepts:
 
@@ -19,7 +22,11 @@ In this project; Next.js architecture, Firebase Firestore (NoSQL), Complex Secur
 
 Bonus: I recorded the entire development process as a speedcoding timelapse Watch on YouTube.
 
+---
+
 <img width="600px" src="https://github.com/aytacserce/the-city-hotel/blob/main/City-Hotel-screenshot-1.png?raw=true" alt="The City Hotel Project Screenshot" />
+
+---
 
 :hammer_and_wrench: Languages and Tools Used:
 HTML
